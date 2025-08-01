@@ -13,11 +13,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Here is a little about me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Full stack development<br>🎯 Goals: To improve my development skills through challenging personal projects<br> :notebook_with_decorative_cover:: Current Projects: 	<br>🎲 Fun fact: I've been skydiving :airplane:, and I take any opportunity to iumprove my spanish speaking!</p>
+<p align="left">✨ Learning about computer science since 2022<br>📚 I'm currently learning Full stack development, but focus on backend development<br>🎯 Goals: To improve my development skills through challenging personal projects<br> :notebook_with_decorative_cover:: Current Projects: 	<br>🎲 Fun fact: I've been skydiving :airplane:, and I take any opportunity to improve my Spanish speaking!</p>
 
 ###
 
