@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Learning about computer science since 2022<br>📚 I'm currently learning Full stack development, but focus on backend development<br>🎯 Goals: To improve my development skills through challenging personal projects<br> :notebook_with_decorative_cover:: Current Projects: https://github.com/Nelson-Lohse/event-aggregator-api	<br>🎲 Fun fact: I've been skydiving :airplane:, and I take any opportunity to improve my Spanish speaking!</p>
+<p align="left">✨ Learning about computer science since 2023<br>📚 I'm currently learning Full stack development, but focus on backend development<br>🎯 Goals: To improve my development skills through challenging personal projects<br> :notebook_with_decorative_cover:: Current Projects: https://github.com/Nelson-Lohse/event-aggregator-api	<br>🎲 Fun fact: I've been skydiving :airplane:, and I take any opportunity to improve my Spanish speaking!</p>
 
 ###
 
