@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Full stack development<br>🎯 Goals: To improve my development skills through challenging personal projects<br> :notebook_with_decorative_cover:	<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Full stack development<br>🎯 Goals: To improve my development skills through challenging personal projects<br> :notebook_with_decorative_cover:: Current Projects: 	<br>🎲 Fun fact: I've been skydiving :airplane:, and I take any opportunity to iumprove my spanish speaking!</p>
 
 ###
 
