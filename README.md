@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Learning about computer science since 2023<br>📚 I'm currently learning Full stack development, but focus on backend development<br>🎯 Goals: To improve my development skills through challenging personal projects<br> :notebook_with_decorative_cover:: Current Projects: https://github.com/Nelson-Lohse/event-aggregator-api	<br>🎲 Fun fact: I've been skydiving :airplane:, and I take any opportunity to improve my Spanish speaking!</p>
+<p align="left">✨ I'm a software engineer based in Minneapolis Minnesota<br>📚 I do a lot of full stack engineering, but i'm currently learning React and other fornt end frameworks<br>🎯 Goals: To improve my development skills through challenging personal projects<br> :notebook_with_decorative_cover:: Current Projects: https://github.com/Nelson-Lohse/event-aggregator-api	<br>🎲 Fun fact: I've been skydiving :airplane:, and I take any opportunity to improve my Spanish speaking!</p>
 
 ###
 
