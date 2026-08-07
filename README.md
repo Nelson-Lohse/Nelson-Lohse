@@ -102,7 +102,7 @@ My personal website and portfolio showcasing my software development experience 
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Add LinkedIn URL]
-* 🌐 Portfolio: [Add Portfolio URL]
-* 📧 Email: [Add Professional Email]
+* 💼 LinkedIn: www.linkedin.com/in/nelson-lohse-824506288
+//* 🌐 Portfolio: [Add Portfolio URL]
+* 📧 Email: neloh001@gmail.com
 * 💻 GitHub: [Nelson-Lohse](https://github.com/Nelson-Lohse)
