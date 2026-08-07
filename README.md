@@ -94,8 +94,15 @@ My personal website and portfolio showcasing my software development experience 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelson-Lohse&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nelson-Lohse&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+
+<a href="https://github.com/Nelson-Lohse">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nelson-Lohse&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+
+<a href="https://github.com/Nelson-Lohse">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Lohse&layout=compact&langs_count=8" />
+</a>
+
 </div>
 
 ---
@@ -103,6 +110,5 @@ My personal website and portfolio showcasing my software development experience 
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: www.linkedin.com/in/nelson-lohse-824506288
-//* 🌐 Portfolio: [Add Portfolio URL]
 * 📧 Email: neloh001@gmail.com
 * 💻 GitHub: [Nelson-Lohse](https://github.com/Nelson-Lohse)
