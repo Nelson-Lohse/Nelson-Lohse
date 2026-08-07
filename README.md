@@ -69,21 +69,22 @@ A personal application focused on managing and organizing financial information.
 
 [View Repository](https://github.com/Nelson-Lohse/Local-Accounting-APP)
 
-### 🧠 NeetCode Submissions
+*** 🌎 Travlr Getaways
 
-A collection of my solutions to data structures and algorithms problems from NeetCode.
+A full-stack travel booking application developed as part of my software engineering coursework.
 
-**Technologies:** Python
+**Technologies:** Node.js · Express · Angular · MongoDB · JavaScript
 
-* Practice with arrays, strings, hash tables, linked lists, trees, graphs, and dynamic programming
-* Focused on understanding algorithmic patterns and writing efficient solutions
-* Used to prepare for technical software engineering interviews
+* Developed RESTful backend services using Node.js and Express
+* Built an Angular single-page application for managing travel data
+* Integrated MongoDB for persistent data storage
+* Implemented communication between the frontend and backend through REST APIs
 
-[View Repository](https://github.com/Nelson-Lohse/neetcode-submissions)
+[View Repository]([link](https://github.com/Nelson-Lohse/cs465-Travlr_Getaways))
 
-### 🌐 Personal Website
+### 🌐 Rescue animals database portfolio
 
-My personal website and portfolio showcasing my software development experience and projects.
+My personal website and portfolio showcasing my software development experience.
 
 **Technologies:** TypeScript · Angular · HTML · CSS
 
