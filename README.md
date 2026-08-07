@@ -82,13 +82,19 @@ A full-stack travel booking application developed as part of my software enginee
 
 [View Repository](https://github.com/Nelson-Lohse/cs465-Travlr_Getaways)
 
-### 🌐 Rescue animals database portfolio
+### 🐾 Rescue Animals Management System
 
-My personal website and portfolio showcasing my software development experience.
+A Java-based application developed to manage rescue animal records and demonstrate object-oriented programming principles.
 
-**Technologies:** TypeScript · Angular · HTML · CSS
+**Technologies:** Java · Object-Oriented Programming
 
-[View Repository](https://github.com/Nelson-Lohse/Nelson-Lohse.github.io)
+* Designed and implemented a class hierarchy using inheritance and encapsulation
+* Created animal management functionality for tracking rescue animal information
+* Applied object-oriented design principles to build maintainable and reusable code
+* Developed application logic to support adding, searching, and managing animal records
+
+[View Project](https://github.com/Nelson-Lohse/Nelson-Lohse.github.io)
+
 
 ---
 
