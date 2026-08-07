@@ -1,61 +1,108 @@
-<h1 align="left">Hey 👋 Welcome to my page</h1>
+<h1 align="center">Hi, I'm Nelson Lohse 👋</h1>
 
-###
+<p align="center">
+  <strong>Software Engineer | Backend & Full-Stack Development</strong>
+</p>
 
-<p align="left">My name is Nelson and I'm a software developer, from Minneapolis, Minnesota</p>
+<p align="center">
+  Minneapolis, Minnesota · Computer Science Graduate
+</p>
 
-###
+---
+
+## 👨‍💻 About Me
+
+I'm a software engineer with a background in computer science and a strong interest in **backend development, APIs, and software architecture**.
+
+I enjoy building applications that solve practical problems and improving my understanding of how software works from the backend to the user interface. I'm currently focused on strengthening my skills in **C++, Java, Python, and backend web development** while building personal projects and expanding my software engineering experience.
+
+* 🎓 B.S. in Computer Science — Software Engineering
+* 💻 Focused on backend and full-stack development
+* 🧠 Currently strengthening my data structures, algorithms, and system design skills
+* 🔨 Building personal projects to apply what I've learned
+* 📍 Based in Minneapolis, Minnesota
+
+---
+
+## 🛠️ Technologies
+
+### Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+</p>
+
+### Backend & Web
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="Angular" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧾 Local Accounting App
+
+A personal application focused on managing and organizing financial information.
+
+**Technologies:** Python · SQLite
+
+* Designed and developed a local application for managing accounting information
+* Implemented database-backed data storage using SQLite
+* Applied Python programming and software design concepts to a practical problem
+
+[View Repository](https://github.com/Nelson-Lohse/Local-Accounting-APP)
+
+### 🧠 NeetCode Submissions
+
+A collection of my solutions to data structures and algorithms problems from NeetCode.
+
+**Technologies:** Python
+
+* Practice with arrays, strings, hash tables, linked lists, trees, graphs, and dynamic programming
+* Focused on understanding algorithmic patterns and writing efficient solutions
+* Used to prepare for technical software engineering interviews
+
+[View Repository](https://github.com/Nelson-Lohse/neetcode-submissions)
+
+### 🌐 Personal Website
+
+My personal website and portfolio showcasing my software development experience and projects.
+
+**Technologies:** TypeScript · Angular · HTML · CSS
+
+[View Repository](https://github.com/Nelson-Lohse/Nelson-Lohse.github.io)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelson-Lohse&count_private=true&include_all_commits=true&include_forks=true&theme=dracula&langs_count=5&hide_border=false&hide_title=false&hide_rank=false&show_icons=true&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nelson-Lohse&count_private=true&include_all_commits=true&include_forks=true&langs_count=5&theme=dracula&hide_border=false&hide_title=false&locale=en" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nelson-Lohse&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nelson-Lohse&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-###
+---
 
-<h2 align="left">Here is a little about me</h2>
+## 📫 Connect With Me
 
-###
-
-<p align="left">✨ I'm a software engineer based in Minneapolis Minnesota<br>📚 I do a lot of full stack engineering, but i'm currently learning React and other front end frameworks<br>🎯 Goals: To improve my development skills through challenging personal projects<br> :notebook_with_decorative_cover:: Current Projects: https://github.com/Nelson-Lohse/Local-Accounting-APP	<br>🎲 Fun fact: I've been skydiving :airplane:, and I take any opportunity to improve my Spanish speaking!</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-
-###
+* 💼 LinkedIn: [Add LinkedIn URL]
+* 🌐 Portfolio: [Add Portfolio URL]
+* 📧 Email: [Add Professional Email]
+* 💻 GitHub: [Nelson-Lohse](https://github.com/Nelson-Lohse)
