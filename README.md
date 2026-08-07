@@ -80,7 +80,7 @@ A full-stack travel booking application developed as part of my software enginee
 * Integrated MongoDB for persistent data storage
 * Implemented communication between the frontend and backend through REST APIs
 
-[View Repository]([link](https://github.com/Nelson-Lohse/cs465-Travlr_Getaways)
+[View Repository](https://github.com/Nelson-Lohse/cs465-Travlr_Getaways)
 
 ### 🌐 Rescue animals database portfolio
 
@@ -89,22 +89,6 @@ My personal website and portfolio showcasing my software development experience.
 **Technologies:** TypeScript · Angular · HTML · CSS
 
 [View Repository](https://github.com/Nelson-Lohse/Nelson-Lohse.github.io)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Nelson-Lohse">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nelson-Lohse&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-
-<a href="https://github.com/Nelson-Lohse">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Lohse&layout=compact&langs_count=8" />
-</a>
-
-</div>
 
 ---
 
