@@ -69,7 +69,7 @@ A personal application focused on managing and organizing financial information.
 
 [View Repository](https://github.com/Nelson-Lohse/Local-Accounting-APP)
 
-*** 🌎 Travlr Getaways
+### 🌎 Travlr Getaways
 
 A full-stack travel booking application developed as part of my software engineering coursework.
 
@@ -80,7 +80,7 @@ A full-stack travel booking application developed as part of my software enginee
 * Integrated MongoDB for persistent data storage
 * Implemented communication between the frontend and backend through REST APIs
 
-[View Repository]([link](https://github.com/Nelson-Lohse/cs465-Travlr_Getaways))
+[View Repository]([link](https://github.com/Nelson-Lohse/cs465-Travlr_Getaways)
 
 ### 🌐 Rescue animals database portfolio
 
